@@ -1,34 +1,77 @@
 {
   "project_info": {
-    "project_number": "202208977773",
-    "project_id": "flutteremergency",
-    "storage_bucket": "flutteremergency.appspot.com"
+    "project_number": "63781084280",
+    "project_id": "handyman-51f76",
+    "storage_bucket": "handyman-51f76.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:202208977773:android:9e05121fea9b4257773064",
+        "mobilesdk_app_id": "1:63781084280:android:924955b9eaf368295aa18d",
         "android_client_info": {
           "package_name": "com.atinity.public_emergency_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "202208977773-9vbq2ubsodfapi9r3apfquthngsk5q71.apps.googleusercontent.com",
+          "client_id": "63781084280-mi7up6dnkc1ug6a0sdc48g42kflp8vt1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCnEpwI1wvKfo2pyJJy2Pv-u-VDQGsEUYw"
+          "current_key": "AIzaSyAa9HDBmmtmnAsDiOs_zt_3u1-H5fI1zm8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "202208977773-9vbq2ubsodfapi9r3apfquthngsk5q71.apps.googleusercontent.com",
+              "client_id": "63781084280-mi7up6dnkc1ug6a0sdc48g42kflp8vt1.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "63781084280-5dhpornq2pnpnsld1eadb499t4nd1is8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63781084280:android:210aee141d39df445aa18d",
+        "android_client_info": {
+          "package_name": "com.iqonic.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63781084280-mi7up6dnkc1ug6a0sdc48g42kflp8vt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9HDBmmtmnAsDiOs_zt_3u1-H5fI1zm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63781084280-mi7up6dnkc1ug6a0sdc48g42kflp8vt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63781084280-5dhpornq2pnpnsld1eadb499t4nd1is8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.provider"
+              }
             }
           ]
         }
